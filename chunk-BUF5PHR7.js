@@ -1,0 +1,1 @@
+import{Wb as o,Xb as i,rc as a,yb as n}from"./chunk-ZP7FOY4A.js";var c=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=n({type:t,selectors:[["app-interview-coach"]],decls:2,vars:0,consts:[[1,"coming-soon"]],template:function(e,r){e&1&&(o(0,"h1",0),a(1,"Coming soon..."),i())},encapsulation:2})};export{c as InterviewCoach};
